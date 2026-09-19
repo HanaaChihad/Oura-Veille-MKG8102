@@ -5,7 +5,7 @@
 - Lamia Guellif — Direction de l'intelligence marketing
 - Safaa Chihad — Opérations de veille
 - Zakaria — Architecture de données, et Opérations en renfort
-- Philippe Gariépy — Responsable des insights
+- Coéquipier #4 — Responsable des insights (abandon du cours) - Partie reprise par Lamia
 - Hanaa Chihad — Connaissance et diffusion, responsable de ce dépôt
 
 ## Le cas
