@@ -2,7 +2,7 @@
 À remplir avec une fiche réellement validée dans la base, datée du jour de l'utilisation. Ce fichier est un gabarit vide, pas un exemple rempli. L'exemple rempli reste hors du dépôt, c'est un document de préparation personnelle, pas un livrable.
 
 **Destinataire** : Vice-présidence Marketing, Amérique du Nord
-**Date** : [à remplir]
+**Date** : 19 septembre 2026
 **Fiche source** : [identifiant Airtable, exemple, FV-0042]
 
 ## 1. Conclusion
