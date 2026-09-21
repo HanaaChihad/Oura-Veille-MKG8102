@@ -48,11 +48,11 @@ Repris de l'annexe A du mandat remis le 11 septembre.
 
 ### Safaa Chihad — Opérations de veille
 
-Pas d'usage de l'IA déclaré pour cette période au moment du dépôt. Sa déclaration du 5 au 11 septembre figure à la section 1.
+Usage de l'IA minimal sur cette période : l'essentiel du travail a été fait à la main. Les usages sont de même nature que ceux qu'elle a déclarés du 5 au 11 septembre (section 1), et les mêmes règles s'appliquent : aucune cote, aucune date, aucune adresse générée par l'IA. Déclaration transmise à la Direction le 21 septembre.
 
 ### Zakaria Jouahi — Architecture de données
 
-Pas d'usage de l'IA déclaré pour cette période au moment du dépôt. Sa déclaration du 5 au 11 septembre figure à la section 1.
+Usage de l'IA minimal sur cette période : l'essentiel du travail a été fait à la main. Les usages sont de même nature que ceux qu'il a déclarés du 5 au 11 septembre (section 1), et les mêmes règles s'appliquent : aucune cote, aucune date, aucune adresse générée par l'IA. Déclaration transmise à la Direction le 21 septembre.
 
 ### Hanaa Chihad — Connaissance et diffusion
 
