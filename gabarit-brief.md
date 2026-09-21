@@ -1,29 +1,54 @@
-# Gabarit de brief, format BLUF
-À remplir avec une fiche réellement validée dans la base, datée du jour de l'utilisation. Ce fichier est un gabarit vide, pas un exemple rempli. L'exemple rempli reste hors du dépôt, c'est un document de préparation personnelle, pas un livrable.
+# Gabarit du brief hebdomadaire — format BLUF
 
-**Destinataire** : Vice-présidence Marketing, Amérique du Nord
-**Date** : 19 septembre 2026
-**Fiche source** : [identifiant Airtable, exemple, FV-0042]
+Équipe 3, MKG8102. Gabarit vide. Un exemple rempli se trouve dans `exemple-brief-VP-marketing.md`.
 
-## 1. Conclusion
-Samsung a obtenu, le 20 juillet 2026, une autorisation de la FDA pour son Galaxy Ring. La bataille sur la santé des femmes se déplace donc en partie vers la crédibilité clinique, pas seulement vers le prix. C'est un signal en faveur de l'hypothèse H3.
+Structure imposée par le bloc 5 du mandat : la réponse provisoire à la KIQ centrale en première ligne, puis l'état des trois hypothèses, une ligne par KIQ secondaire, et les preuves et sources en fin de document. Une page au maximum.
 
-## 2. Portée
-Ce fait couvre le marché américain, où la FDA a autorité. Il ne prouve pas encore d'effet direct au Canada, Santé Canada n'a publié aucune reconnaissance équivalente à ce jour. Cette absence est elle-même un signal, à confirmer par la KIQ secondaire S2.
+Règles avant envoi :
+- Chaque affirmation remonte à une fiche au statut Validé. Une fiche À valider n'existe pas pour la décideuse : ni citée, ni résumée.
+- Une source cotée C n'appuie une conclusion que recoupée par une deuxième source indépendante.
+- Une autorisation américaine n'est jamais présentée comme une homologation canadienne.
+- Contrôle 2 signé par la Direction avant l'envoi par Gmail, le vendredi avant midi.
 
-## 3. Recommandation
-Ne pas trancher le prix de l'abonnement avant de savoir si un concurrent obtient une reconnaissance clinique équivalente au Canada. Si oui d'ici le 30 novembre, changer seulement le prix ne suffira pas, il faudra répondre aussi sur le terrain clinique.
+---
 
-## 4. Faits d'appui
+**À** : Vice-présidence Marketing, Amérique du Nord
+**De** : Direction de l'intelligence marketing
+**Date** : [jour de l'envoi]
+**Période couverte** : [première et dernière date de captation des fiches citées]
 
-Samsung a reçu une équivalence substantielle de la FDA le 20 juillet 2026, pour le dépistage du risque d'apnée du sommeil sur le Galaxy Ring (identifiant de fiche à remplacer).
-Le formulaire S-1 d'Oura confirme qu'environ 72 % des 5 millions de membres payants sont des femmes, une base qui grossit plus vite que celle des hommes depuis l'exercice 2024 (identifiant de fiche à remplacer).
+## Réponse provisoire à la KIQ-1
+[Une ou deux phrases. Commencer par la réponse, pas par le contexte.]
 
-## Hypothèse alternative examinée
+**Niveau de confiance** : [élevé, moyen ou faible] — [justification en une ligne]
 
-H2 pourrait aussi expliquer un mouvement chez les concurrents, si RingConn ou Ultrahuman rendaient une fonction de santé des femmes gratuite d'ici le 15 novembre. Jugée moins probable pour l'instant, aucune des deux n'a annoncé de changement de prix, seul Samsung a bougé, et son geste est clinique, pas tarifaire.
+## État du seuil du « handicap »
+[Relevé n sur 3. Condition (a) : réunie ou non, avec les acteurs concernés. Condition (b) : réunie ou non, avec la source et sa cote.]
+
+## État des trois hypothèses
+
+| Hypothèse | État | Fiches validées qui l'appuient |
+|---|---|---|
+| H1 — Statu quo | [renforcée, affaiblie, inchangée] | [titres des fiches] |
+| H2 — Handicap mesurable | | |
+| H3 — Déplacement clinique | | |
+
+## KIQ secondaires
+
+- **S1** — [une ligne]
+- **S2** — [une ligne]
+- **S3** — [une ligne]
+
+## Hypothèse alternative à tenir ouverte
+[Une ou deux phrases.]
 
 ## Ce qui ferait changer ce jugement
-Si Santé Canada publiait une reconnaissance équivalente pour un concurrent avant le 30 novembre, ou si RingConn ou Ultrahuman annonçait la gratuité d'une fonction de santé des femmes, le jugement changerait vers H2, ou vers un mélange de H2 et H3.
+[Le fait observable qui renverserait la réponse provisoire.]
 
-C'est exactement le contenu du fichier brief-exemple-VP-marketing.md que je vous ai déjà envoyé, au cas où vous l'aviez manqué.
+## Preuves et sources
+
+| Fiche validée | Source | Cote | Adresse |
+|---|---|---|---|
+| [titre de la fiche] | [nom de la source] | [A à F] | [adresse exacte] |
+
+**Contrôle 2** : vérifié par [nom], le [date].
